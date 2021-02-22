@@ -1,4 +1,9 @@
-﻿Option Strict On
+﻿'Brayden Peck
+'RCET 0265
+'Spring 2021
+'Roll of the Dice
+'https://github.com/PeckBray/RolloftheDice
+Option Strict On
 Option Explicit On
 Module Module1
 
